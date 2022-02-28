@@ -5,4 +5,5 @@ void main()
   print(4);
   print(3+4);
   print(true);
+  // This is a comment
 }
