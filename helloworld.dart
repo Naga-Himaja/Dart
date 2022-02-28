@@ -6,4 +6,6 @@ void main()
   print(3+4);
   print(true);
   // This is a comment
+  /*These are multi
+    line comments and are shown like this*/
 }
